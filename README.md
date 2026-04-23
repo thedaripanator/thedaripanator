@@ -3,8 +3,7 @@
   <h1>Hey there 👋 I'm Sayondeep Daripa</h1>
   <p><em>Backend Developer · Spring Boot · DSA · ML Explorer</em></p>
   
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=thedaripanator&style=flat-square&color=1D9E75)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sayondeep-daripa-158580334/)
   [![GitHub](https://img.shields.io/badge/GitHub-thedaripanator-181717?style=flat-square&logo=github)](https://github.com/thedaripanator)
 </div>
 
